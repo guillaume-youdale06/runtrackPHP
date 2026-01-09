@@ -9,8 +9,8 @@
     <form action="" method="post">
         <label for="nom">Username :</label>
         <input type="text" name="username" placeholder="pseudo">
-        <label for="mdp">Mot de passe :</label>
-        <input type="password" name="mdp">
+        <label for="password">Mot de passe :</label>
+        <input type="text" name="mdp" placeholder="Votre mot de passe">
         <input type="submit" value="Envoyer">
     </form>
 
